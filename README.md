@@ -72,11 +72,5 @@
 
 ### 📊 Estatísticas do GitHub
 
-<p align="center">
-  <a href="https://github.com/K4yo-rnm">
-    <img src="https://github-readme-stats.vercel.app/api?username=K4yo-rnm&show_icons=true&theme=dracula&include_all_commits=true&count_private=true" alt="Estatísticas do GitHub do Caio" />
-  </a>
-  <a href="https://github.com/K4yo-rnm">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=K4yo-rnm&layout=compact&theme=dracula" alt="Linguagens mais usadas" />
-  </a>
-</p>
+[![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=K4yo-rnm&show_icons=true&theme=dracula&include_all_commits=true&count_private=true)](https://github.com/K4yo-rnm)
+[![Linguagens mais usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=K4yo-rnm&layout=compact&theme=dracula)](https://github.com/K4yo-rnm)
