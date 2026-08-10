@@ -74,6 +74,6 @@
 
 <p align="center">
   <a href="https://github.com/K4yo-rnm">
-    <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=K4yo-rnm&theme=tokyonight" alt="Linguagens mais usadas" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=K4yo-rnm&layout=compact&theme=tokyonight&custom_title=Linguagens%20Mais%20Usadas&hide=html,css,shaderlab" alt="Linguagens mais usadas" />
   </a>
 </p>
