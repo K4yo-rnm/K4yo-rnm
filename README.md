@@ -72,14 +72,9 @@
 
 ### 📊 Estatísticas do GitHub
 
-<p align="center">
+<div align="center">
   <a href="https://github.com/K4yo-rnm">
-    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=K4yo-rnm&theme=dracula" alt="Resumo do Perfil" />
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=K4yo-rnm&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" alt="Estatísticas do GitHub" />
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=K4yo-rnm&layout=compact&theme=tokyonight" alt="Linguagens mais usadas" />
   </a>
-</p>
-
-<p align="center">
-  <a href="https://github.com/K4yo-rnm">
-    <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=K4yo-rnm&theme=dracula" alt="Repositórios por Linguagem" />
-  </a>
-</p>
+</div>
