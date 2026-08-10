@@ -80,6 +80,6 @@
 
 <p align="center">
   <a href="https://github.com/K4yo-rnm">
-    <img src="https://streak-stats.demolab.com?user=K4yo-rnm&theme=dracula&hide_border=true" alt="Estatísticas de Contribuição (Streak)" />
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=K4yo-rnm&theme=dracula" alt="Repositórios por Linguagem" />
   </a>
 </p>
