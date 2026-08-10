@@ -70,9 +70,10 @@
 
 ---
 
-### 📊 Estatísticas do GitHub
+### 📊 Linguagens Mais Utilizadas
 
 <p align="center">
-  <img height="160em" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=K4yo-rnm&theme=tokyonight" alt="Estatísticas do GitHub" />
-  <img height="160em" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=K4yo-rnm&theme=tokyonight" alt="Linguagens mais usadas" />
+  <a href="https://github.com/K4yo-rnm">
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=K4yo-rnm&theme=tokyonight" alt="Linguagens mais usadas" />
+  </a>
 </p>
