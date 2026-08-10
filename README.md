@@ -70,10 +70,10 @@
 
 ---
 
-### 📊 Linguagens Mais Utilizadas
+### 📊 Linguagens de Programação & Dados
 
-<p align="center">
-  <a href="https://github.com/K4yo-rnm">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=K4yo-rnm&layout=compact&theme=tokyonight&custom_title=Linguagens%20Mais%20Usadas&hide=html,css,shaderlab" alt="Linguagens mais usadas" />
-  </a>
-</p>
+- [x] <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" height="22"> — Foco principal em IA (Machine Learning, PyTorch) e Backend (Flask).
+- [x] <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" height="22"> — Desenvolvimento moderno, tipado e escalável.
+- [x] <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" height="22"> — Criação de APIs REST com Node.js e Express.
+- [x] <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white" height="22"> — Modelagem de dados, PostgreSQL e banco de dados relacionais.
+- [x] <img src="https://img.shields.io/badge/Java-%23ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" height="22"> **&** <img src="https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white" height="22"> — Base forte em estruturas de dados e lógica de programação.
